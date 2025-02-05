@@ -1,6 +1,8 @@
 # chrome
 智能翻译总结摘要chrome插件
 
+Google浏览器扩展程序-->管理扩展程序-->开发者模式-->加载已解压的扩展程序-->最后导入包含了整个项目的地址
+
 翻译：
 
 <img width="878" alt="1" src="https://github.com/user-attachments/assets/6af9a8c5-1649-4cb5-ac61-6526db32e9a6" />
